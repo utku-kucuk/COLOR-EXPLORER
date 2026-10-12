@@ -3,10 +3,10 @@
   "private": true,
   "version": "1.0.1",
   "description": "Explore colors: conversions, palettes, WCAG contrast, and shareable links.",
-  "homepage": "https://mutkukucuk.github.io/COLOR-EXPLORER/",
+  "homepage": "https://utku-kucuk.github.io/COLOR-EXPLORER/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mutkukucuk/COLOR-EXPLORER.git"
+    "url": "git+https://github.com/utku-kucuk/COLOR-EXPLORER.git"
   },
   "type": "module",
   "engines": {

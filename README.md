@@ -4,13 +4,13 @@
 
 **Pick a color, convert it, build palettes, and check accessibility, all in one place.**
 
-[![CI](https://github.com/mutkukucuk/COLOR-EXPLORER/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/mutkukucuk/COLOR-EXPLORER/actions/workflows/ci.yml)
-[![Deploy](https://github.com/mutkukucuk/COLOR-EXPLORER/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/mutkukucuk/COLOR-EXPLORER/actions/workflows/deploy.yml)
+[![CI](https://github.com/utku-kucuk/COLOR-EXPLORER/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/utku-kucuk/COLOR-EXPLORER/actions/workflows/ci.yml)
+[![Deploy](https://github.com/utku-kucuk/COLOR-EXPLORER/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/utku-kucuk/COLOR-EXPLORER/actions/workflows/deploy.yml)
 ![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6-3178c6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)
 
-[**Live demo →**](https://mutkukucuk.github.io/COLOR-EXPLORER/)
+[**Live demo →**](https://utku-kucuk.github.io/COLOR-EXPLORER/)
 
 </div>
 
@@ -44,7 +44,7 @@ Color Explorer is a fast, client-side web app for working with color. It accepts
 **Prerequisites:** Node.js `20.19+` or `22.12+`
 
 ```sh
-git clone https://github.com/mutkukucuk/COLOR-EXPLORER.git
+git clone https://github.com/utku-kucuk/COLOR-EXPLORER.git
 cd COLOR-EXPLORER
 npm install
 npm run dev
@@ -84,7 +84,7 @@ src/
 State is kept in the hash, so links work on static hosting without a server:
 
 ```
-https://mutkukucuk.github.io/COLOR-EXPLORER/#c=ff8800&fg=1f2937&bg=ffffff
+https://utku-kucuk.github.io/COLOR-EXPLORER/#c=ff8800&fg=1f2937&bg=ffffff
                                              │        │         └ contrast background
                                              │        └ contrast text
                                              └ base color
@@ -131,5 +131,5 @@ Assets use a relative base (`base: './'` in [`vite.config.ts`](vite.config.ts)),
 ---
 
 <div align="center">
-Made by <a href="https://github.com/mutkukucuk">@mutkukucuk</a>
+Made by <a href="https://github.com/utku-kucuk">@utku-kucuk</a>
 </div>
